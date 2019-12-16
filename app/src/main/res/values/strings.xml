@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Warehouse Management</string>
+    <array name="currency_characters">
+        <item>$</item>
+        <item>\u20a6</item>
+        <item>\u00a3</item>
+    </array>
+</resources>
